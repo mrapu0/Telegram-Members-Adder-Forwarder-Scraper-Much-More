@@ -1,9 +1,9 @@
 # What is Telegram-Member-Adder?
 Telegram member adder is an all in one fully automated tool for Telegram with +43 functions. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
 ## Add Telegram Members from targeted groups of your choice into your own group!
-### 43 MAIN FUNCTIONS!
+#### 43 MAIN FUNCTIONS!
 
-#### GET HERE: https://rb.gy/lo9dvf
+### GET HERE: https://rb.gy/lo9dvf
 
 VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
@@ -53,7 +53,7 @@ VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
 For any questions, feel free to ask us: https://rb.gy/0uju8i
 
-### Whats so special about this?
+#### Whats so special about this?
 1. This tool is the first tool, which can scrape more than 10k members at once!
 2. You can also scrape hidden members!
 3. Add the scraped members to your group / channel!

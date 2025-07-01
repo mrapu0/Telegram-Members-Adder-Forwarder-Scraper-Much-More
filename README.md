@@ -72,4 +72,4 @@ For any questions, feel free to ask us: https://rb.gy/0uju8i
 16. No coding skills required, noob-friendly!
 
 #### Please ⭐ the repo to support our project
-<a href="https://github.com/Coder4TG/Telegram-Members-Adder-Forwarder-Scraper-Much-More"><img alt="rule34" src="https://count.getloli.com/get/@Coder4TGTelegram-Members-Adder-Forwarder-Scraper-Much-More?theme=rule34" /></a>
+<a href="https://github.com/Coder4TG/Telegram-Members-Adder-Forwarder-Scraper-Much-More"><img alt="rule34" src="https://count.getloli.com/get/@Coder4TGTelegram-Members-Adder-Forwarder-Scraper-Much-More?theme=rule34" /img></a>
